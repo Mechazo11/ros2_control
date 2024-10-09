@@ -16,6 +16,8 @@
   <build_depend>builtin_interfaces</build_depend>
   <build_depend>lifecycle_msgs</build_depend>
 
+  <depend>service_msgs</depend>
+
   <exec_depend>builtin_interfaces</exec_depend>
   <exec_depend>lifecycle_msgs</exec_depend>
   <exec_depend>rosidl_default_runtime</exec_depend>
